@@ -7,4 +7,5 @@ import java.io.Serializable;
 @Data
 public class MongoBean implements Serializable {
 
+    private String id;
 }
