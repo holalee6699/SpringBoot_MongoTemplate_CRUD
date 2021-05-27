@@ -1,4 +1,4 @@
-package com.holalee.mongo.dao;
+package com.github.holalee.dao;
 
 /**
  * Mongo Cursor Actuator

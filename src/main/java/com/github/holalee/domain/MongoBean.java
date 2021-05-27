@@ -1,4 +1,4 @@
-package com.holalee.mongo.domain;
+package com.github.holalee.domain;
 
 import lombok.Data;
 

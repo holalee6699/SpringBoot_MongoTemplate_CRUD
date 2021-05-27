@@ -1,4 +1,4 @@
-package com.holalee.mongo;
+package com.github.holalee;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.holalee.mongo.domain;
+package com.github.holalee.domain;
 
 import lombok.Data;
 import org.springframework.data.mongodb.core.mapping.Document;
